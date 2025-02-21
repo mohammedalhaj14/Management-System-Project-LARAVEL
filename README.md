@@ -37,8 +37,9 @@ The **Management System** is a **web-based application** built using Laravel, PH
 ## 🎯 Installation & Setup  
 1. **Clone the Repository**  
    ```bash
+   https://github.com/mohammedalhaj14/Management-System-Project-LARAVEL
    
-   cd management-system
+   cd Management-System-Project-LARAVEL
    ```
 
 2. **Install Dependencies**  
